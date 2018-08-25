@@ -62,17 +62,26 @@ __Note: GOOGLE EVERYTHING, Do not take anything for granted, It might be the CLU
 
 
 
-Exploitation:
--------------
-
-- 
+### Exploitation:
 
 
+- Google exploits for :
+
+	- services type and version number
+	
+	- OS type and version: Ex: Windows 2003, Ubuntu 
+	
+	- Web frames version or vulnerable plugins
+	
+- Check previous HTB exploits: Exploit.txt
 
 
 
-Privilege Escalation
----------------------
+
+
+### Privilege Escalation
+
+
 
 
 
