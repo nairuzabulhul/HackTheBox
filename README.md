@@ -2,7 +2,7 @@
 
 __Tools and Techniques used to root the boxes learning while doing the boxes and watching @ippsec @Derek_Rook__
 
-![Image](/img/h.jpg)
+![Image](/img/h.JPG)
 
 ### Initial Scanning:
  
