@@ -8,6 +8,9 @@ __Tools and Techniques used while doing the boxes and watching @ippsec @Derek_Ro
  
 - nmap -sC -sV -oA initial IPaddress
 
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
 ### Web Enumeration: 
 __Note: GOOGLE EVERYTHING, Do not take anything for granted, It might be the CLUE__
 
@@ -61,7 +64,7 @@ __Note: GOOGLE EVERYTHING, Do not take anything for granted, It might be the CLU
 	>> Cookies: auth=$CookieValue$
 
 
-
+-------------------------------------------------------------------------------------------------------------------------------------
 ### Exploitation:
 
 
@@ -78,7 +81,7 @@ __Note: GOOGLE EVERYTHING, Do not take anything for granted, It might be the CLU
 
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------
 ### Privilege Escalation
 
 
