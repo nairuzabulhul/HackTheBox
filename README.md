@@ -1,6 +1,6 @@
 ## HackTheBox : 
 
-__Tools and Techniques used to root the boxes learning while doing the boxes and watching @ippsec @Derek_Rook__
+__Tools and Techniques used while doing the boxes and watching @ippsec @Derek_Rook__
 
 ![Image](/img/h.JPG)
 
