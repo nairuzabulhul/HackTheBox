@@ -253,9 +253,14 @@ Windows
 Linux
 ------
 
+Linux Enumeration:
+
 - Linux Suggestor
 	>> Linux Exploit Suggestor by mzet Github
 	
+- Linuxprivacychecker.py 
+
+- unixprivesc.py 
 
 - Run sudo -l if the box is linux 
 
