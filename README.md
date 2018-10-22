@@ -16,6 +16,7 @@ Initial Scanning:
 	-sV  detecting services versions 
 	-oA output formatting
 	
+>> nmap -A -sV IP_address	
 
 Web Enumeration: 
 ----------------
