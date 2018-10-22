@@ -288,3 +288,7 @@ Linux
 	- Hijacking Paths: is used when the executable does not specify  the full path in the program
 		>> export PATH=`pwd`:$PATH        | change regular system path to local path 
 		
+- Search for a sticky bit:
+	>> find / -perm -1000 -type d 2>/dev/null
+	>> find / -perm -4000 2 >/dev/null
+	
