@@ -173,8 +173,11 @@ Uploading Shells:
 - Getting proper shells
 	>> Ctrl + Z 
 	>> stty raw -echo  | for autocomplete shells
-	>> FG + Enter      | to get autotab 
+	>> FG + Enter      | to get autotab
 
+- Notes for uploading the file: add GIF89a as magic byte to avoid filtering
+
+		
 		
 File Transfer:
 --------------
