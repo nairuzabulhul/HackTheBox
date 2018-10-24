@@ -1,0 +1,49 @@
+
+Scanning:
+---------
+
+- nmap -sC -sV -oA inital IP_address
+- nmap -sC -sV -No inital IP_address
+
+
+Web Enumeration:
+----------------
+
+- View source code  | check for debugging information
+
+- Wappalyzer for quick overview of the running techonolgies  
+
+- gobutser -u http://IP_address  -w wordlist
+
+- dirbsearch -u  http://IP_address -f 
+
+- Nikto -host http://IP_address
+
+- Dirbuster 
+
+- webfuzz --hw=1 --hh=3076 -w wordlist 
+
+
+
+Expliotation by cPickle
+---------------------
+
+
+
+
+
+Notes: 
+
+- Ubuntu 2.4.18 - xenial  | not exploitation 
+
+- MD5 characeter length = 32
+
+- Sha1 character length = 40 
+
+- Get foxy proxy on Firefox
+
+- Pickele is a stack language is python that allows
+  for serialization of objects 
+
+- Wordlists: common dirbuster list, or seclist[Discovery] for enumeration
+
