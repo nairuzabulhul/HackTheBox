@@ -7,7 +7,7 @@ __Tools and Techniques used while doing the boxes and watching @ippsec @Derek_Ro
 HBT: Tools and Techniques
 --------------------------
 
-### Initial Scanning:
+### [Scanning & Service Enunmeration](https://github.com/nairuzabulhul/HackTheBox/blob/master/Scanning%20%26%20Service%20Enumeration.pdf):
 |
 
 |
